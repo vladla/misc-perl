@@ -1,6 +1,6 @@
 ## LinkedIn Password Checker
 
-This is a perl script to check if a certain password was leaked or cracked in the release on 6/6/2012..
+This is a perl script to check if a certain password was leaked or cracked in the release on 6/6/2012.
 
 To use, run:
 
